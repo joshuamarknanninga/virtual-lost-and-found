@@ -1,0 +1,12 @@
+{
+  "name": "virtual-lost-and-found",
+  "version": "1.0.0",
+  "description": "This is a geo based app that can help report and claim lost items.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
